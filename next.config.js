@@ -3,7 +3,7 @@ const nextConfig = {
     trailingSlash: true,
     reactStrictMode: true,
     output: 'export',
-    basePath: '/github-pages',
+    basePath: '/porto-saya',
 }
 module.exports = nextConfig
 
